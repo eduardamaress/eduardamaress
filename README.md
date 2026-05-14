@@ -103,9 +103,9 @@ Me chamo Eduarda Maressa, tenho 18 anos e sou de São Paulo. Concluí o ensino m
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="githubusercontent.com">
-  <source media="(prefers-color-scheme: light)" srcset="githubusercontent.com">
-  <img alt="github contribution grid snake animation" src="githubusercontent.com">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eduardamaress/eduardamaress/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eduardamaress/eduardamaress/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/eduardamaress/eduardamaress/output/github-contribution-grid-snake.svg">
 </picture>
 <br><br>
 
