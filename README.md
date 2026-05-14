@@ -101,3 +101,11 @@ Me chamo Eduarda Maressa, tenho 18 anos e sou de São Paulo. Concluí o ensino m
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />
 <br/>
 <br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="githubusercontent.com">
+  <source media="(prefers-color-scheme: light)" srcset="githubusercontent.com">
+  <img alt="github contribution grid snake animation" src="githubusercontent.com">
+</picture>
+<br><br>
+
