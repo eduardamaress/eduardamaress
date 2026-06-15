@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Eduarda Maressa, tenho 18 anos e sou de São Paulo. Concluí o ensino médio no IFSP, com o curso técnico em informática. Atualmente, estou cursando Engenharia da Computação na UNASP.
+Me chamo Eduarda Maressa, tenho 19 anos e sou de São Paulo. Concluí o ensino médio no IFSP, com o curso técnico em informática. Atualmente, estou cursando Engenharia da Computação na UNASP.
 
 <p align="left">
 <a href="https://github.com/eduardamaress?tab=followers"> 
