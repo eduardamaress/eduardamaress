@@ -101,7 +101,3 @@ Me chamo Eduarda Maressa, tenho 19 anos e sou de São Paulo. Concluí o ensino m
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />
 <br/>
 <br/>
-
-![Snake animation](https://raw.githubusercontent.com/eduardamaress/eduardamaress/output/github-contribution-grid-snake.svg)
-<br><br>
-
